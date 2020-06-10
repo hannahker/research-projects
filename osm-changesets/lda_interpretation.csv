@@ -1,0 +1,12 @@
+﻿Topic number,Topic tag,Topic theme,Words informing interpretation,Ease of interpretation,Topic size (%)
+1,pathways,Mapping subject,sidewalk; bridge; footways; footpath; link,Moderate,2.20%
+2,introductions,Communication,osm; please; welcome; name; help,Challenging,6.80%
+3,satellite imagery b,Mapping activity,imagery; aerial; bing; esri; trace; topo,Easy,3.60%
+4,basic map elements,Mapping subject,tag; add; way; node; relation; area,Easy,34.60%
+5,roads a,Mapping subject,road; access; way; driveway; private,Moderate,10.50%
+6,satellite imagery a ,Mapping activity,imagery; satellite; mapbox; gps; adjust,Easy,3.40%
+7,basic map activities,Mapping activity,changeset; publish; change; correct; edit; map; revert,Easy,25.60%
+8,railway and challenges,Mapping subject/Emotional tone,railway; vandalism; sadly; unaware; crossing; railroad,Challenging,1.70%
+9,buildings,Mapping subject,building; shop; geometry; corner; store; floor; unit,Easy,5.70%
+10,roads b,Mapping subject,mph_button; limit; mph; direction; speed,Moderate,4.50%
+11,people and places,Mapping subject,california; jose; jason; jose; wyoming,Moderate,1.50%
